@@ -1,5 +1,6 @@
 # Benford-Law
-> Benford’s Law states that, in a naturally occurring set of numbers, the smaller digits appear disproportionately more often as the leading digits. The leading digits have the distribution shown in the following table, where the number 1 appears slightly more than 30% of the time as the leading digit, and the number 9 appears as the leading digit less than 5% of the time (which is a difference of 6x).  
+> The purpose of this project is to verify wheather a given data set follows the distribution of Benforrd's Law.  
+Benford’s Law states that, in a naturally occurring set of numbers, the smaller digits appear disproportionately more often as the leading digits. The leading digits have a distribution where the number 1 appears slightly more than 30% of the time  and the number 9 appears less than 5% of the time (which is a difference of 6x).  
 
 ## Table of contents
 * [General info](#general-info)
